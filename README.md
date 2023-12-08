@@ -43,4 +43,4 @@ item.restore # Restores the soft-deleted item
 bundle exec rspec
 ```
 
-This command runs RSPec tests to ensure the soft delete functionality works correctly. Tests include checking if instantiated item is nil, soft deleting an item, restoring a soft-deleted item, and verifying that soft-deleted items are excluded from normal queries.
+This command runs RSpec tests to ensure the soft delete functionality works correctly. Tests include checking if instantiated item is nil, soft deleting an item, restoring a soft-deleted item, and verifying that soft-deleted items are excluded from normal queries.
