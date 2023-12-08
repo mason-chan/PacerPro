@@ -1,7 +1,7 @@
 # PacerPro Coding Test 
 
 ## Description
-Ruby on Rails assignment implements a basic soft delete functionality for a model named "Item". Soft delete is a mechanism that allows records to be marked as deleted without actually removing them from the database. In this implementation, a "deleted_at" attribute is added to the "Item" model, and soft delete is achieved by updating this attribute with the current timestamp.
+Ruby on Rails project that implements a basic soft delete functionality for a model named "Item". Soft delete is a mechanism that allows records to be marked as deleted without actually removing them from the database. In this implementation, a "deleted_at" attribute is added to the "Item" model, and soft delete is achieved by updating this attribute with the current timestamp.
 
 ## Setup and Installation
 Make sure to have the following installed on your machine:
